@@ -1,0 +1,15 @@
+{
+    "name": "jessy/one_custom",
+    "authors": [
+        {
+            "name": "mateosim",
+            "email": "mateo.simeon@free.fr"
+        }
+    ],
+    "require": {
+        "johnpbloch/wordpress": "^4.9"
+    },
+    "extra": {
+        "wordpress-install-dir": "wp"
+    }
+}
