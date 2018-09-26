@@ -2,204 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b175e199-a9dc-4d09-9abf-5d27809b64fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/one_custom.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/admin-fr_FR.mo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/admin-fr_FR.po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/admin-network-fr_FR.mo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/admin-network-fr_FR.po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/continents-cities-fr_FR.mo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/continents-cities-fr_FR.po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/fr_FR.mo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/fr_FR.po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/plugins/akismet-fr_FR.mo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/plugins/akismet-fr_FR.po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/plugins/hello-dolly-fr_FR.mo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/plugins/hello-dolly-fr_FR.po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/themes/twentyfifteen-fr_FR.mo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/themes/twentyfifteen-fr_FR.po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/themes/twentyseventeen-fr_FR.mo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/themes/twentyseventeen-fr_FR.po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/themes/twentysixteen-fr_FR.mo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/languages/themes/twentysixteen-fr_FR.po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/_inc/akismet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/_inc/akismet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/_inc/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/_inc/img/logo-full-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/akismet.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/class.akismet-admin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/class.akismet-cli.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/class.akismet-rest-api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/class.akismet-widget.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/class.akismet.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/views/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/views/get.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/views/notice.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/views/start.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/views/stats.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/akismet/wrapper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/hello.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/plugins/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/404.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/archive.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/author-bio.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/comments.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/content-link.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/content-none.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/content-page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/content-search.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/content.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/css/editor-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/css/ie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/css/ie7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/genericons/COPYING.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/genericons/Genericons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/genericons/Genericons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/genericons/Genericons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/genericons/Genericons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/genericons/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/genericons/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/genericons/genericons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/image.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/inc/back-compat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/inc/custom-header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/inc/customizer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/inc/template-tags.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/js/color-scheme-control.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/js/customize-preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/js/functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/js/html5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/js/keyboard-image-navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/js/skip-link-focus-fix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/search.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/sidebar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/single.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyfifteen/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/404.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/archive.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/css/colors-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/css/editor-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/css/ie8.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/css/ie9.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/images/coffee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/images/espresso.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/images/sandwich.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/images/svg-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/js/customize-controls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/js/customize-preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/js/global.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/js/html5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/js/jquery.scrollTo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/js/navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/comments.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/front-page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/inc/back-compat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/inc/color-patterns.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/inc/custom-header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/inc/customizer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/inc/icon-functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/inc/template-functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/inc/template-tags.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/search.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/searchform.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/sidebar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/single.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/footer/footer-widgets.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/footer/site-info.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/header/header-image.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/header/site-branding.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/navigation/navigation-top.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/page/content-front-page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/page/content-page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/post/content-audio.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/post/content-excerpt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/post/content-gallery.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/post/content-image.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/post/content-none.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/post/content-video.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentyseventeen/template-parts/post/content.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/404.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/archive.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/comments.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/css/editor-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/css/ie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/css/ie7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/css/ie8.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/genericons/COPYING.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/genericons/Genericons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/genericons/Genericons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/genericons/Genericons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/genericons/Genericons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/genericons/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/genericons/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/genericons/genericons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/image.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/inc/back-compat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/inc/customizer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/inc/template-tags.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/js/color-scheme-control.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/js/customize-preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/js/functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/js/html5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/js/keyboard-image-navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/js/skip-link-focus-fix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/search.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/searchform.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/sidebar-content-bottom.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/sidebar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/single.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/template-parts/biography.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/template-parts/content-none.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/template-parts/content-page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/template-parts/content-search.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/template-parts/content-single.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/themes/twentysixteen/template-parts/content.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-config-sample.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <ignored mask=".idea" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +41,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="32" />
+          <entry key="gitignore" value="33" />
           <entry key="json" value="26" />
           <entry key="php" value="22" />
         </counts>
@@ -244,7 +50,7 @@
         <counts>
           <entry key="JSON" value="26" />
           <entry key="PHP" value="22" />
-          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="PLAIN_TEXT" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.new.class" />
@@ -284,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -354,8 +160,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Bureau/one_custom" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -379,15 +187,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537962489559</updated>
-      <workItem from="1537962492498" duration="4615000" />
+      <workItem from="1537962492498" duration="6560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4615000" />
+    <option name="totallyTimeSpent" value="6560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="990" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
@@ -395,7 +204,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32918552" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32918552" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32918552" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -458,7 +267,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
