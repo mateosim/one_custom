@@ -2,3 +2,7 @@
 wp/
 wp-config.php
 .idea
+content/themes/bento/
+content/twentyseventeen/
+content/plugins/akismet/
+content/plugins/contact-form-7/

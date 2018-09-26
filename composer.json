@@ -15,6 +15,8 @@
     "require": {
         "johnpbloch/wordpress": "^4.9",
         "wpackagist-theme/bento":"*",
+        "wpackagist-theme/seventeen":"*",
+        "wpackagist-plugin/akismet":"*",
         "wpackagist-plugin/contact-form-7":"*"
     },
     "extra": {
